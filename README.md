@@ -33,8 +33,6 @@ Instale todas as dependencias do laravel com o composer
 Execute as migrations do projeto
 >php artisan migrate
 
-Para verificar o banco de dados 
-
 ## Testando
 
 Todos arquivos de testes você pode consefir na raiz do projeto no diretorio *tests/Feature*.
