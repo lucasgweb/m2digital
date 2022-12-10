@@ -1,7 +1,6 @@
 ## Requisitos 
 
 Docker - https://www.docker.com/
-Composer - https://getcomposer.org/
 
 ## Instalação
 
