@@ -45,7 +45,7 @@ ou podera testar fazendo requisições manualmente
 Instale o Insomnia https://insomnia.rest/download
 
 Importe o workspace pela URL 
->https://github.com/lucasgweb/insomnia-m2digital/blob/master/m2digital_2022-12-10.json
+>https://github.com/lucasgweb/m2digital/blob/master/Insomnia.json
 
 Execute a migration e o seeder em seu *prompt/terminal* ainda dentro do workspace do docker
 >php artisan migrate:fresh
